@@ -1,1 +1,1 @@
-# Javascript-notes-
+# Javascript- Notes & Terminology
